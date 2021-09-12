@@ -11,7 +11,6 @@ import CardMedia from '@material-ui/core/CardMedia';
 import Button from '@material-ui/core/Button';
 import Typography from '@material-ui/core/Typography';
 import StarIcon from '@material-ui/icons/Star';
-
 import '@fontsource/roboto';
 
 
@@ -54,7 +53,7 @@ export default function Details({ data }) {
 
                   <div className="div1">
                     <Typography variant="body2" color="textSecondary" component="p">
-                      {item.cuisines.join(", ")}
+                      {item.cuisines}
                     </Typography>
 
                     <Typography variant="body2" color="textSecondary" component="p">
