@@ -1,0 +1,134 @@
+[
+  {
+    "title": "The Healthy Bar",
+    "star": 3,
+    "cuisines": ["Healthy", "Continental"],
+    "cost": 500,
+    "time": "20 min",
+    "payment": "Cash",
+    "votes": 1200,
+    "reviews": 750,
+    "img": "https://i0.wp.com/images-prod.healthline.com/hlcmsresource/images/AN_images/eggs-breakfast-avocado-1296x728-header.jpg?w=1155&h=1528"
+  },
+  {
+    "title": "Haveli Restaurant",
+    "star": 2.5,
+    "cuisines": ["Indian", "Chinese"],
+    "cost": 250,
+    "time": "20 min",
+    "payment": "Cash",
+    "votes": 1000,
+    "reviews": 1000,
+    "img": "https://images.squarespace-cdn.com/content/v1/5c5c3833840b161566b02a76/1573133725500-Y5PCN0V04I86HDAT8AT0/WBC_7095.jpg?format=2500w"
+  },
+  {
+    "title": "KFC",
+    "star": 4.5,
+    "cuisines": ["Fast Food", "Chicken"],
+    "cost": 300,
+    "time": "40 min",
+    "payment": "Online",
+    "votes": 5504,
+    "reviews": 3007,
+    "img": "https://b.zmtcdn.com/data/pictures/7/20287/9410759d611db9c62c3acc23c1f27e06.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*"
+  },
+  {
+    "title": "McDonalds",
+    "star": 3.9,
+    "cuisines": ["Fast Food", "Chicken"],
+    "cost": 200,
+    "time": "30 min",
+    "payment": "Online",
+    "votes": 1234,
+    "reviews": 870,
+    "img": "https://b.zmtcdn.com/data/pictures/0/21540/6feb21c4e7d30c8372c37cca2f1cbe14.png?fit=around|771.75:416.25&crop=771.75:416.25;*,*"
+  },
+  {
+    "title": "Baba ka Dhaba",
+    "star": 1,
+    "cuisines": ["Indian", "Fast Food"],
+    "cost": 150,
+    "time": "20 min",
+    "payment": "Cash",
+    "votes": 69,
+    "reviews": 69,
+    "img": "https://media.istockphoto.com/photos/varied-food-carbohydrates-protein-vegetables-fruits-dairy-legumes-on-picture-id1218254547?b=1&k=20&m=1218254547&s=170667a&w=0&h=mOEC7x7qU5NC78mCULs-jAPeLkxy8opOvIbGSnwmAyw="
+  },
+  {
+    "title": "Dominos",
+    "star": 4.5,
+    "cuisines": ["Fast Food", "Pizza"],
+    "cost": 400,
+    "time": "30 min",
+    "payment": "Online",
+    "votes": 1890,
+    "reviews": 1254,
+    "img": "https://images.dominos.co.in/new_veggie_paradise.jpg"
+  },
+  {
+    "title": "Starbucks",
+    "star": 3.7,
+    "cuisines": ["Coffee"],
+    "cost": 300,
+    "time": "50 min",
+    "payment": "Online",
+    "votes": 890,
+    "reviews": 254,
+    "img": "https://pbs.twimg.com/media/E90ITYHVkAULpfG.jpg"
+  },
+  {
+    "title": "Dhaba 24 x 7",
+    "star": 3.5,
+    "cuisines": ["North Indian", "Mughlai"],
+    "cost": 200,
+    "time": "50 min",
+    "payment": "Online",
+    "votes": 890,
+    "reviews": 254,
+    "img": "https://restaurantindia.s3.ap-south-1.amazonaws.com/s3fs-public/content6079.jpg"
+  },
+  {
+    "title": "Biryani House",
+    "star": 2.9,
+    "cuisines": ["Biryani", "Mughlai"],
+    "cost": 100,
+    "time": "20 min",
+    "payment": "Cash",
+    "votes": 90,
+    "reviews": 25,
+    "img": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2019/9/9/0/FNK_the-best-biryani_H.JPG.rend.hgtvcom.616.462.suffix/1568143107638.jpeg"
+  },
+  {
+    "title": "The Blue Mug Cafe",
+    "star": 3.4,
+    "cuisines": ["Continental", "Italian"],
+    "cost": 700,
+    "time": "40 min",
+    "payment": "Cash",
+    "votes": 190,
+    "reviews": 75,
+    "img": "https://b.zmtcdn.com/data/pictures/chains/7/18420517/33de5dcb50f4d330a757585425d16857.jpg"
+  },
+  {
+    "title": "Momo Inn",
+    "star": 4.4,
+    "cuisines": ["Momo", "Chinese", "Tibetan"],
+    "cost": 100,
+    "time": "20 min",
+    "payment": "Cash",
+    "votes": 190,
+    "reviews": 75,
+    "img": "https://img.etimg.com/thumb/msid-70813564,width-650,imgsize-348620,,resizemode-4,quality-100/momos.jpg"
+  },
+  {
+    "title": "ABC Restaurant",
+    "star": 3.3,
+    "cuisines": ["Indian", "Chinese"],
+    "cost": 300,
+    "time": "30 min",
+    "payment": "Online",
+    "votes": 345,
+    "reviews": 123,
+    "img": "https://thumbs.dreamstime.com/b/healthy-food-background-fruits-vegetables-cereal-nuts-superfood-dietary-balanced-vegetarian-eating-products-kitchen-143677456.jpg"
+  }
+]

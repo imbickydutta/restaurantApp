@@ -1,0 +1,120 @@
+.App {
+  text-align: center;
+  /* background-color: #ddd; */
+  /* font-family: 25px; */
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.red-circle {
+  background-color: red;
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: relative;
+}
+
+.ToDo {
+  width: 40%;
+  margin: auto;
+}
+
+.inputDiv {
+  margin: auto;
+  margin-bottom: 20px;
+}
+
+.inputDiv input {
+  width: 60%;
+  font-size: 25px;
+  border-radius: 10px;
+  outline: none;
+  padding-left: 10px;
+  /* border: none; */
+  /* height: 30px; */
+}
+
+.addBtn {
+  font-size: 25px;
+  border-radius: 10px;
+}
+
+.deleteBtn {
+  font-size: 10px;
+  text-decoration: none !important;
+}
+
+.eachTask {
+  display: flex;
+  justify-content: space-between;
+  text-align: left;
+  padding: 5px;
+  border-radius: 10px;
+  cursor: pointer;
+  width: 70%;
+  margin: auto;
+  margin-bottom: 10px;
+}
+
+.eachTask .text {
+  width: 100%;
+  font-size: 25px;
+  font-weight: bold;
+  color: #000135;
+}
+
+.done {
+  border: 1px solid rgb(0, 247, 41);
+  background-color: rgb(153, 255, 153);
+}
+
+.done .text {
+  text-decoration: line-through;
+}
+
+.notDone {
+  border: 1px solid rgb(255, 5, 5);
+  background-color: rgb(255, 155, 116);
+}
+
+.logo {
+  width: 100px;
+  padding: 20px;
+}
+
+.filter-container {
+  display: flex;
+}
